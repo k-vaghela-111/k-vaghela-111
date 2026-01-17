@@ -25,14 +25,8 @@
 ## 🚀 Interests
 - ⚛️ **MERN Stack Development** (MongoDB, Express, React, Node.js)  
 - 🤖 **Artificial Intelligence & Machine Learning**  
-- 🔐 **Cybersecurity**  
-
----
-
-## 📊 GitHub Stats
-![Karmrajsinh's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-vaghela-111&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=k-vaghela-111&layout=compact&theme=radical)
-
+- 🔐 **Cybersecurity**
+  
 ---
 
 ## 📫 Contact
